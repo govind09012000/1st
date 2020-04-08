@@ -9,8 +9,7 @@ import java.awt.*;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-public class Ticket_Booking {
-	
+public class Ticket_Booking {	
 	static JTextArea textarea;
 	static int price_count = 0;
     	static JTextField textfield;
